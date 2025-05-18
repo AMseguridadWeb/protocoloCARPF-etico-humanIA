@@ -77,9 +77,17 @@ Inspirar a otros profesionales y ciudadanos a construir soluciones éticas, sost
 
 “CARPF: Democratizar el conocimiento. La IA nos da igualdad.”
 
-🧾 Licencia
+# 🧾 Licencia
 
 Este repositorio se publica bajo licencia MIT. Uso libre con reconocimiento.
+
+## ⚖️ Declaración de cumplimiento legal y ético
+
+Todos los casos de uso presentados en este repositorio son reales, pero han sido tratados de forma que no contienen información personal identificable, cumpliendo con lo establecido en el Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).
+
+Los nombres, referencias y cualquier dato sensible han sido anonimizados o suprimidos para proteger la privacidad y la dignidad de las personas.
+
+Este contenido se publica con fines formativos, profesionales y sociales, y puede incluir soluciones o procesos que forman parte de servicios prestados por el autor bajo acuerdo profesional o contractual. No se expone información confidencial ni se vulnera la privacidad de las partes.
 
 🙌 Este es un espacio abierto al aprendizaje, la colaboración y la evolución continua.
 
