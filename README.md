@@ -4,9 +4,25 @@
 
 # ✨ Propósito
 
-Este repositorio no solo reúne herramientas y estrategias, sino una filosofía de acción fundamentada en la experiencia real de Antonio Madroñal, impulsor del proyecto CARPF (Consultor de Alto Rendimiento en Protección Financiera).
+* Este repositorio no solo reúne herramientas y estrategias, sino una filosofía de acción fundamentada en la experiencia real de Antonio Madroñal, impulsor del proyecto CARPF (Consultor de Alto Rendimiento en Protección Financiera).
 
-Aquí se definen principios, prácticas y aprendizajes para aplicar la IA de forma ética, justa, sostenible y útil en entornos reales: jurídicos, financieros, personales y colectivos.
+* Define principios, prácticas y aprendizajes para aplicar la IA de forma ética, justa, sostenible y útil en entornos reales: jurídicos, financieros, personales y sociales.
+
+Por encima de todo, pretende demostrar que la IA —cuando está guiada por un buen propósito y valores humanos— tiene el poder de llevar la justicia real a los espacios donde antes reinaban la manipulación, el abuso de poder y la injusticia.
+
+Con la IA, ahora podemos realizar tareas que un ser humano por sí solo jamás podría completar a tiempo, con el alcance o la profundidad necesaria. Por ello, quienes antes encontraban "huecos" para aprovecharse del sistema deben comprender que: su tiempo ha terminado.
+
+# 🤝 Solo quienes temen el cambio y la transparencia deberían preocuparse por la llegada de la IA.
+
+Para quienes buscan la verdad, la amabilidad y la equidad, la IA es una herramienta de claridad y transformación. Siempre:
+
+Humano + IA = El camino hacia soluciones reales, paz y dignidad.
+
+Este repositorio no es una distribución de software en el sentido convencional. Lo que realmente se comparte aquí es una declaración pública de principios, valores y el paradigma ético que define a CARPF.
+
+Si bien los scripts y ejemplos pueden descargarse libremente, la verdadera aportación es compartir abiertamente cómo se puede y se debe utilizar la IA de forma ética.
+
+> ⚠️ Aviso: La filosofía es libre y está abierta al aprendizaje, pero la aplicación profesional del protocolo CARPF —cuando se despliega en casos reales— es un servicio prestado contractualmente y está sujeto a retribución.
 
 # 🧠 Principios rectores
 
