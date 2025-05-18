@@ -72,7 +72,8 @@ README.md               → Este documento
 Antonio Madroñal Gómez📧 Email: antonio.madronal@carpf.es📍  
 Getafe,28905, Comunidad de Madrid - España -
 
-> “CARPF: Democratizar el conocimiento. La IA nos da igualdad.”
+> “CARPF: Democratizar el conocimiento. La IA nos da igualdad.” 📄 [Breve manifiesto CARPF (PDF)](https://github.com/hubCARPF/protocoloCARPF-etico-humanIA/blob/main/reflexiones/Breve%20manifiesto%20CARPF%20sin%20retorno.pdf)
+
 
 # 🧾 Licencia
 
