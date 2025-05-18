@@ -69,7 +69,8 @@ README.md               → Este documento
 
 # 👤 Autor
 
-Antonio Madroñal Gómez📧 Email: antonio.madronal@carpf.es📍 Getafe,28905, Comunidad de Madrid - España -
+Antonio Madroñal Gómez📧 Email: antonio.madronal@carpf.es📍  
+Getafe,28905, Comunidad de Madrid - España -
 
 > “CARPF: Democratizar el conocimiento. La IA nos da igualdad.”
 
