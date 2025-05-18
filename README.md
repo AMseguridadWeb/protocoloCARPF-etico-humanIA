@@ -75,8 +75,7 @@ Antonio Madroñal Gómez📧 Email: antonio.madronal@carpf.es📍 Getafe,28905, 
 
 # 🧾 Licencia
 
-📜 Licencia adaptada: Este proyecto combina elementos de la Licencia MIT con cláusulas éticas adicionales. Ver LICENSE.md.
-
+📜 Licencia adaptada: Este proyecto combina elementos de la Licencia MIT con cláusulas éticas adicionales. Ver [`LICENSE.md`](https://github.com/hubCARPF/protocoloCARPF-etico-humanIA/blob/master/LICENSE.md)
 # ⚖️ Declaración de cumplimiento legal y ético
 
 Todos los casos de uso presentados en este repositorio son reales, pero han sido tratados de forma que no contienen información personal identificable, cumpliendo con lo establecido en el Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).
