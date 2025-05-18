@@ -1,5 +1,5 @@
-# 🧭 Protocolo CARPF-Ético-HumanIA 
- 
+# 🧭 Protocolo CARPF-Ético-HumanIA
+
 🌍 *Un manifiesto vivo de ética, tecnología, compromiso y humanidad en la era de la inteligencia artificial.*
 
 # ✨ Propósito
@@ -16,45 +16,30 @@ Con la IA, ahora podemos realizar tareas que un ser humano por sí solo jamás p
 
 Para quienes buscan la verdad, la amabilidad y la equidad, la IA es una herramienta de claridad y transformación. Siempre:
 
-Humano + IA = El camino hacia soluciones reales, paz y dignidad.
+**Humano + IA = El camino hacia soluciones reales, paz y dignidad.**
+
+> ⚠️ **Distinción importante**: Este repositorio incluye contenido libre y contenido profesional sujeto a licencia. Ver [`LICENSE`](./LICENSE) para más detalles.
 
 Este repositorio no es una distribución de software en el sentido convencional. Lo que realmente se comparte aquí es una declaración pública de principios, valores y el paradigma ético que define a CARPF.
 
 Si bien los scripts y ejemplos pueden descargarse libremente, la verdadera aportación es compartir abiertamente cómo se puede y se debe utilizar la IA de forma ética.
 
-> ⚠️ Aviso: La filosofía es libre y está abierta al aprendizaje, pero la aplicación profesional del protocolo CARPF —cuando se despliega en casos reales— es un servicio prestado contractualmente y está sujeto a retribución.
-
 # 🧠 Principios rectores
 
 📜 Manifiesto CARPF
 
-
-✅ El ser humano lidera, la IA asiste
-
-✅ El propósito prima sobre la herramienta
-
+✅ El ser humano lidera, la IA asiste  
+✅ El propósito prima sobre la herramienta  
 ✅ Toda solución debe ser:
-
-
-- Ética
-
-- Útil
-
-- Comprensible
-
-- Sostenible en el tiempo (no una solución puntual, sino duradera)
-
-- Pedagógica (que enseñe y empodere)
-
-- Justa y socialmente aceptada (por y para las personas)
-  
-
-✅ El conocimiento se comparte: el saber no se encierra
-
-✅ La transformación no se mide por fama, sino por impacto real
-
+- Ética  
+- Útil  
+- Comprensible  
+- Sostenible en el tiempo (no una solución puntual, sino duradera)  
+- Pedagógica (que enseñe y empodere)  
+- Justa y socialmente aceptada (por y para las personas)  
+✅ El conocimiento se comparte: el saber no se encierra  
+✅ La transformación no se mide por fama, sino por impacto real  
 ✅ Reconocimiento explícito a OpenAI, Microsoft, y a toda comunidad libre
-
 
 # 💬 El paradigma CARPF:
 
@@ -65,20 +50,12 @@ aplicada en favor de todos cuando así se requiera por el bien común.”
 
 📂 Contenido del repositorio
 
-# Este repositorio se estructura en varias secciones:
-
-📁 manifiesto/           → Declaraciones éticas y compromisos personales
-
-📁 proyectos/            → Casos de éxito: OneDrive, análisis normativo, bots...
-
-📁 reflexiones/          → Artículos, ensayos y evolución personal
-
-📁 guias/                → Protocolos prácticos y metodologías
-
-📁 multimedia/           → Imágenes, infografías, vídeos
-
-📁 scripts/              → Códigos de utilidad orientados a soluciones éticas
-
+📁 manifiesto/           → Declaraciones éticas y compromisos personales  
+📁 proyectos/            → Casos de éxito: OneDrive, análisis normativo, bots...  
+📁 reflexiones/          → Artículos, ensayos y evolución personal  
+📁 guias/                → Protocolos prácticos y metodologías  
+📁 multimedia/           → Imágenes, infografías, vídeos  
+📁 scripts/              → Códigos de utilidad orientados a soluciones éticas  
 README.md               → Este documento
 
 # 🚀 Misión del protocolo
@@ -91,11 +68,11 @@ Inspirar a otros profesionales y ciudadanos a construir soluciones éticas, sost
 📧 Email: antonio.madronal@carpf.es  
 📍 Getafe,28905, Comunidad de Madrid - España -
 
-“CARPF: Democratizar el conocimiento. La IA nos da igualdad.”
+**“CARPF: Democratizar el conocimiento. La IA nos da igualdad.”**
 
 # 🧾 Licencia
 
-Este repositorio se publica bajo licencia MIT. Uso libre con reconocimiento.
+📜 **Licencia adaptada**: Este proyecto combina elementos de la Licencia MIT con cláusulas éticas adicionales. Ver [`LICENSE`](./LICENSE).
 
 ## ⚖️ Declaración de cumplimiento legal y ético
 
@@ -104,6 +81,3 @@ Todos los casos de uso presentados en este repositorio son reales, pero han sido
 Los nombres, referencias y cualquier dato sensible han sido anonimizados o suprimidos para proteger la privacidad y la dignidad de las personas.
 
 Este contenido se publica con fines formativos, profesionales y sociales, y puede incluir soluciones o procesos que forman parte de servicios prestados por el autor bajo acuerdo profesional o contractual. No se expone información confidencial ni se vulnera la privacidad de las partes.
-
-🙌 Este es un espacio abierto al aprendizaje, la colaboración y la evolución continua.
-
