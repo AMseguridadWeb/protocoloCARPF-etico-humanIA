@@ -18,7 +18,7 @@ Para quienes buscan la verdad, la amabilidad y la equidad, la IA es una herramie
 
 **Humano + IA = El camino hacia soluciones reales, paz y dignidad.**
 
-> ⚠️ **Distinción importante**: Este repositorio incluye contenido libre y contenido profesional sujeto a licencia. Ver [`LICENSE`](./LICENSE) para más detalles.
+> ⚠️ **Distinción importante**: Este repositorio incluye contenido libre y contenido profesional sujeto a licencia. Ver [`LICENSE.md`](https://github.com/AMseguridadWeb/protocoloCARPF-etico-humanIA/blob/master/LICENSE.md) para más detalles.
 
 Este repositorio no es una distribución de software en el sentido convencional. Lo que realmente se comparte aquí es una declaración pública de principios, valores y el paradigma ético que define a CARPF.
 
